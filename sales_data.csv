@@ -1,0 +1,9 @@
+Name,Age,City,Sales,Profit,Region,Category,Date,Salesperson
+Amit,25,Delhi,6000.0,1500.0,North,A,2025-01-01,S1
+Neha,30,Mumbai,4500.0,1200.0,West,B,2025-01-02,S2
+Ravi,22,Pune,5200.0,1300.0,West,A,2025-01-03,S3
+Priya,28,Bangalore,7000.0,,South,C,2025-01-04,S1
+Raj,35,Mumbai,3000.0,800.0,West,B,2025-01-05,S2
+Anita,29,Pune,,1000.0,West,A,2025-01-06,S3
+Kiran,40,Delhi,8000.0,2000.0,North,B,2025-01-07,S1
+Meena,26,Bangalore,9000.0,2500.0,South,C,2025-01-08,S2
